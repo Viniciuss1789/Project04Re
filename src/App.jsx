@@ -1,5 +1,5 @@
 import React from "react";
-import ConversorDeMoedas from "./assets/components/ConversorDeMoedas";
+import ConversorDeMoedas from "./components/ConversorDeMoedas";
 
 function App() {
   return (
